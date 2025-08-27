@@ -11,9 +11,9 @@ int main()
 {
     system("cls");
     int input;
-    cout<<"------------------------"<<endl;
+    cout<<"--------"<<endl;
     cout<<"  GPA & CGPA Calculator "<<endl;
-    cout<<"--------------------------------------------------------------------------\n"<<endl;
+    cout<<"-------\n"<<endl;
     cout<<"  MENU:"<<endl;
     cout<<"  1. Calculate GPA (Grade Point Average)"<<endl;
     cout<<"  2. Calculate CGPA (Cummulative Grade Point Average)"<<endl;
